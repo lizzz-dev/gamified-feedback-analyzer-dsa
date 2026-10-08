@@ -1,0 +1,14 @@
+# Binaries and Object files
+*.exe
+*.obj
+*.o
+
+# Runtime generated data files
+users.txt
+feedbacks.txt
+
+# OS / Editor files
+.vscode/
+.vs/
+*.user
+Thumbs.db
